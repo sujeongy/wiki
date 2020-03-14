@@ -1,0 +1,69 @@
+<!--
+version: 0.0.1
+TODO
+1. 제시어 설정하기 추가
+2. 각 turn 에 대에서 타이머 추가 + 횟수 제한
+3. 사용자 추가하기
+4. 채팅창 추가
+5. 게임 오버 기능추가
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>word-chain</title>
+  <style>
+    #myAnswer {
+      width: 240px;
+    }
+  </style>
+</head>
+<body>
+<h1>끝말잇기를 해보세요!</h1>
+
+<p id="guideText"></p>
+<input id="myAnswer" onkeypress="getInput()" placeholder="단어를 입력해 주세요!">
+
+<h2>제시어: <span class="keyword"></span></h2>
+<div id="words">
+  <span class="keyword"></span> ->
+</div>
+
+
+<script>
+  let keyword = '개발자',
+      keywordList = document.getElementsByClassName("keyword"),
+      lastWord = keyword[keyword.length - 1],
+      guideText = document.getElementById('guideText');
+      guideText.innerText = `'${lastWord}'로 시작되는 단어를 입력하세요!`;
+
+  for (let i = 0, len = keywordList.length; i < len; i++) {
+    console.log('keyword', keyword);
+    keywordList[i].innerHTML = keyword;
+  }
+
+  function getInput() {
+    let lastWord = keyword[keyword.length - 1],
+        myAnswer = document.getElementById('myAnswer'),
+        guideText = document.getElementById('guideText'),
+        words = document.getElementById('words'),
+        newWord = document.createElement("span");
+
+    guideText.innerText = `'${lastWord}'로 시작되는 단어를 입력하세요!`;
+
+    if (lastWord != myAnswer.value[0]) {
+      if(!myAnswer.value[0]){return}
+      guideText.innerText = `[${myAnswer.value}]은/는 '${lastWord}'로 시작되는 단어가 아닙니다!`;
+      myAnswer.value = '';
+      return
+    }
+
+    newWord.innerText = `${myAnswer.value} ->  `;
+    words.appendChild(newWord);
+    keyword = myAnswer.value;
+    myAnswer.value='';
+    getInput();
+  }
+</script>
+</body>
+</html>

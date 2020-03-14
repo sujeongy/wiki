@@ -1,0 +1,48 @@
+body {
+  font-size: 14px;
+}
+
+.wrap {
+  max-width: 1000px;
+  min-width: 800px;
+  background-color: #fafafa;
+  margin: 0 auto;
+}
+
+button {
+  background: none;
+  border: none;
+}
+
+table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+table .sun_d {
+  color: red;
+}
+
+table .sat_d {
+  color: deepskyblue;
+}
+
+.monthly thead {
+  background-color: silver;
+  font-weight: bolder;
+}
+
+.monthly .date_d {
+  height: 30px;
+  line-height: 1.8em;
+}
+
+.wrap .head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.type-btns .is-active {
+  background-color: yellow;
+}

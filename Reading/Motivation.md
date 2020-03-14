@@ -1,0 +1,1 @@
+- [개발자의 공부하기](https://devjang.github.io/2019/08/25/2019-08-25-learning-developer/)
