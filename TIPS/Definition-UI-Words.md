@@ -6,14 +6,13 @@
   
 다들 작업해온 환경이 달라서,  
   
-해당 UI 컴포넌트에 대한 용어정리와 기능정리를 명확히 할 필요성을 매번 느낀다.  
+해당 UI 컴포넌트에 대한 용어와 기능 정의를 명확히 할 필요성을 매번 느낀다.  
   
  1. Button  
  - 링크<a> vs. 기능<button> 으로 구분되나, 모양은 똑같이 구현해야함  
  - <button> 경우, type 설정을 꼭 해주어야 한다. (default: sumbit)  
-  #### # 참고 - [button 사용 이유](https://jsunnylab.tistory.com/38)  
-     
- 2. Popup vs. Modal  
+  
+2. Popup vs. Modal  
   
 3. DropDown vs. Select  
 - 초기 기획 단계에서 이 둘은 명확히 구분  
@@ -26,3 +25,4 @@
   
 # references  
 - [헷갈리는 UI, 스티비는 이렇게 씁니다.](https://blog.stibee.com/%ED%97%B7%EA%B0%88%EB%A6%AC%EB%8A%94-ui-%EC%8A%A4%ED%8B%B0%EB%B9%84%EB%8A%94-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%94%81%EB%8B%88%EB%8B%A4-fa2d52f36a6c)
+- [button 사용 이유](https://jsunnylab.tistory.com/38)
