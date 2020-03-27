@@ -1,5 +1,5 @@
-#홈 서버 구축하기
-> 생활코딩 강의참고해서 나스 구축하기
+# 홈 서버 구축하기
+> 목표: 생활코딩 강의참고해서 나스 구축하기
  
  - IPv4 vs. IPv6
  - [공유기(router)](https://opentutorials.org/course/3265/20033): IPv4의 자원을 아껴쓰기 위한 방법, 교환원
@@ -38,9 +38,9 @@
     네트워크에 접속한 장치의 ip, subnet mask, gateway address, DNS 와 같은 정보를 자동으로 설정해주는 기술
     
 
-## # references
+## # References
 - [생활코딩 - WEB2 Home server](https://opentutorials.org/course/3265)
 
 
-## # 더보기
+## # See also
 - web hosting, server hosting, cloud computing

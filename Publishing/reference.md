@@ -1,5 +1,5 @@
 # 퍼블리싱
 
-## # references
+## # References
 - [htmlreference](https://htmlreference.io/)
 - [cssreference](https://https://cssreference.io/)

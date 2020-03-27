@@ -3,5 +3,5 @@
 
 
 
-## # references
+## # References
 - [Video - Ryan Dahl. Deno, a new way to JavaScript. JS Fest 2019 Spring](https://www.youtube.com/watch?v=z6JRlx5NC9E)
