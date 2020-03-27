@@ -40,3 +40,7 @@
 
 ## # references
 - [생활코딩 - WEB2 Home server](https://opentutorials.org/course/3265)
+
+
+## # 더보기
+- web hosting, server hosting, cloud computing
