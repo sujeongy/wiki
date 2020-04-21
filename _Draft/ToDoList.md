@@ -8,3 +8,6 @@
 - lodash 소스 분석
 
 - node.js 조합으로 SNS 구현하기
+
+- [더보기]식의 고찰? 사색? 글쓰기
+  ex. button location.href vs. a href? 무엇을 써야할까?
