@@ -11,3 +11,8 @@
 
 - [더보기]식의 고찰? 사색? 글쓰기
   ex. button location.href vs. a href? 무엇을 써야할까?
+
+- semantic UI 같은 개인용 UI 라이브러리 만들어보기 
+    +참고 자료 : [생활코딩](https://opentutorials.org/course/2737)
+
+- 컴포넌트식 UI 만들기(codepen or jsfiddle, jsbin.. 등등)
