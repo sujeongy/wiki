@@ -16,3 +16,7 @@
     +참고 자료 : [생활코딩](https://opentutorials.org/course/2737)
 
 - 컴포넌트식 UI 만들기(codepen or jsfiddle, jsbin.. 등등)
+
+- tip > 생산성부분 만들어, 관련 읽은 책 정리하기
+
+- 노션(notion)으로 문서 관리 및 작성 발전시키기
