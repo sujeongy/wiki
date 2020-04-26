@@ -9,3 +9,13 @@
   
 > IOS Issue
 - placeholder issue
+
+
+
+## bug note
+- [모바일 웹 에서 keyup / keydown 이 마음대로 안되는 경우](https://eunsood.tistory.com/entry/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9B%B9-%EC%97%90%EC%84%9C-keyup-keydown-%EC%9D%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+```js
+$('#inputbox').bind("change keyup input", function(e) {
+  fc();
+});
+```

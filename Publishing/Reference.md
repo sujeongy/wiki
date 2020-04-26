@@ -1,8 +1,18 @@
 # 퍼블리싱
 
 
+## HTML 더 생각해보기
+- [HTML Data attribute 에 대한 고찰](https://hsol.tistory.com/962)
+
+
 ## 벤치마킹에 좋은 사이트
 - [핀치](https://thepin.ch/)
+- [오늘회](https://www.onul-hoi.com/m/new_welcome)
+
+
+## UI 스크립트 관련 자료
+- [Progressbar.js](https://progressbarjs.readthedocs.io/en/latest/api/shape/#new-shapecontainer-options)
+- 
 
 
 ## # References
