@@ -19,3 +19,6 @@ $('#inputbox').bind("change keyup input", function(e) {
   fc();
 });
 ```
+
+- [iOS10에서 flex-column 레이아웃 깨짐현상](https://sunyrora.github.io/iphone-flex/)
+
