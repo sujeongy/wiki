@@ -2,5 +2,5 @@
 
 ## 쿠키(cookie)
 
-#### #refences
+## # References
 - [Cookie Recipes](https://so-so.dev/web/cookie-recipes/)
