@@ -8,6 +8,8 @@
 ## 벤치마킹에 좋은 사이트
 - [핀치](https://thepin.ch/)
 - [오늘회](https://www.onul-hoi.com/m/new_welcome)
+- [이약](https://e-yak.com/)
+- [쿠켓](https://cookatmarket.com/)
 
 
 ## UI 스크립트 관련 자료
