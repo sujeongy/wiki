@@ -23,3 +23,4 @@
 - [[모바일]작업시 주의사항](https://front8062.tistory.com/27)
 - [Base64 인코딩과 성능](https://hyeonseok.com/soojung/dev/2017/02/20/811.html)
 - [접근성 더보기 - 접근 가능한 숨긴 텍스트](https://mulder21c.github.io/2019/03/22/screen-hide-text/)
+- [Skeleton: 극 미니멀을 추구하는 반응형 CSS 라이브러리](https://velog.io/@devknth/Skeleton-CSS%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-71k60mych7)
