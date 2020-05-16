@@ -12,7 +12,7 @@
 - [Heroku](https://poiemaweb.com/nodejs-heroku)
 
 - [더보기]식의 고찰? 사색? 글쓰기
-  ex. button location.href vs. a href? 무엇을 써야할까?
+  ex. button location.href vs. a href? 무엇을 써야할까?/[select ui] 반응형일때 사용하면 2벌로 구현을 해야하나?
 
 - [semantic UI](https://semantic-ui.com/) 같은 개인용 UI 라이브러리 만들어보기 
     +참고 자료 : [생활코딩](https://opentutorials.org/course/2737)
