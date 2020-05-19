@@ -1,6 +1,6 @@
 # CSS
 
-## Set Defaault
+## Set Default
   > 초기화 설정
   > initial? inherit?
 
