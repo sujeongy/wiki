@@ -17,7 +17,7 @@
 - [semantic UI](https://semantic-ui.com/) 같은 개인용 UI 라이브러리 만들어보기 
     +참고 자료 : [생활코딩](https://opentutorials.org/course/2737)
 
-- 컴포넌트식 UI 만들기(codepen or jsfiddle, jsbin.. 등등)
+- 컴포넌트식 UI 만들기(codepen or jsfiddle, jsbin.. 등등에서 바로 확인 할 수 있도록, seeds쪽에는 codemirror 적용하기)
 
 - tip > 생산성부분 만들어, 관련 읽은 책 정리하기
 
