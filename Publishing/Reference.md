@@ -30,3 +30,4 @@
 - [Skeleton: 극 미니멀을 추구하는 반응형 CSS 라이브러리](https://velog.io/@devknth/Skeleton-CSS%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-71k60mych7)
 - [npm 라이브러리 비교하기 좋은 사이트 - libhunt](https://js.libhunt.com/compare-slick-vs-swiper)
 - [npm 라이브러리 비교하기 좋은 사이트 - npmtrends](https://www.npmtrends.com/slick-vs-swiper)
+- [브라우저 깜빡임 - FOUS(Flash of Unstyled Content)](https://webdir.tistory.com/416)
