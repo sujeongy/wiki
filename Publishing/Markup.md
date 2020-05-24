@@ -30,11 +30,11 @@
 > 어떻게 쓸까?
  
  ### **[TL;DR]**
- 접근성을 고려한다면 명시적으로 input에 id + label for 로 연결하는 것이 좋다.
+ 접근성을 고려한다면 명시적으로 input에 id + label for 로 연결하는 것이 좋다.<br />
  허나, 개인의 취향상 id는 스크립트 쓸 때만 사용하는 편이라 암시적 연결(label안 input)를 사용할 예정
  
  
- [HTML]
+ #### [Example]
  
   ```html
   // explicit connect
@@ -54,13 +54,14 @@
   </label>
   ```
   
-  [이슈]
-  - 명시형으로 input type="[radio || checkbox]" 생성하여 기본값으로 checked 설정시, iOS 에서 동일한 name을 가진 모든 input이 checked된다.
+  #### [이슈]
+  - 명시형으로 input type="[radio || checkbox]" 생성하여 기본값으로 checked 설정시,<br />
+  iOS 에서 동일한 name을 가진 모든 input이 checked된다.
      > [해결] 암시적 연결로 마크업을 바꾸어 해결
      >
      > [더보기] 명시적 연결로도 해결하기
   
-  [더보기]
+  #### [더보기]
   <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="krystaly" data-slug-hash="zYvWpKd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="input + label example.">
     <span>See the Pen <a href="https://codepen.io/krystaly/pen/zYvWpKd">
     input + label example.</a> by KrystalY (<a href="https://codepen.io/krystaly">@krystaly</a>)
