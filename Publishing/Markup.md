@@ -6,6 +6,7 @@
   1. [a vs. button - 언제쓸까?](#a-vs.-button)
   1. [input + label - 어떻게 쓸까?](#input-+-label)
   1. [video vs. iframe - 무엇을 쓸까?](#video-vs.-iframe)
+  1. [e-mail template](#e-mail-template)
  
   
   
@@ -85,3 +86,33 @@
 
 
 ---
+
+
+## e-mail template
+> Table Coding
+
+- 가장 안정적 너비는 600px 이하
+- 메일을 직접보내 꺠짐을 확인필요
+- table, tr, td로 마크업으로 레이아웃 먼저 작업
+- style은 inline 형식으로 적용
+```html
+// bad
+<center></center>
+
+// good
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td align="center">
+            Your Content
+        </td>
+    </tr>
+</table>
+```
+
+#### # References
+- [HTML Email Template 만들기](https://heropy.blog/2018/12/30/html-email-template/)
+- [What's the best way to center your HTML email content in the browser window (or email client preview pane)?](https://stackoverflow.com/questions/2857765/whats-the-best-way-to-center-your-html-email-content-in-the-browser-window-or)
+
+
+---
+
