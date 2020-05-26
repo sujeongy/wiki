@@ -32,3 +32,5 @@
 
 - pushing seeds 정리하기(CSS - webkit 등 크로스브라우징 / HTML - 이상적인 마크업)
     + 현재는 파일을 나열해 작성 -> 추후 통합 및 분류 필요
+
+- [google developers - performance](https://developers.google.com/web/fundamentals/performance/why-performance-matters) 정리하면서 정독
