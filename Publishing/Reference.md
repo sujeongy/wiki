@@ -31,3 +31,4 @@
 - [npm 라이브러리 비교하기 좋은 사이트 - libhunt](https://js.libhunt.com/compare-slick-vs-swiper)
 - [npm 라이브러리 비교하기 좋은 사이트 - npmtrends](https://www.npmtrends.com/slick-vs-swiper)
 - [브라우저 깜빡임 - FOUS(Flash of Unstyled Content)](https://webdir.tistory.com/416)
+- [NAVER Tech Talk: UIT 개발 밋업 (2018년 9월)](https://d2.naver.com/news/1953933)
