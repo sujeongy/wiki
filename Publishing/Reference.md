@@ -31,3 +31,6 @@
 - [npm 라이브러리 비교하기 좋은 사이트 - libhunt](https://js.libhunt.com/compare-slick-vs-swiper)
 - [npm 라이브러리 비교하기 좋은 사이트 - npmtrends](https://www.npmtrends.com/slick-vs-swiper)
 - [브라우저 깜빡임 - FOUS(Flash of Unstyled Content)](https://webdir.tistory.com/416)
+- [NAVER Tech Talk: UIT 개발 밋업 (2018년 9월)](https://d2.naver.com/news/1953933)
+- [CSS - CSS Flex(Flexible Box) 완벽 가이드](https://heropy.blog/2018/11/24/css-flexible-box/)
+- [flexbox로 만들 수 있는 10가지 레이아웃](https://wit.nts-corp.com/2018/07/27/5274)
