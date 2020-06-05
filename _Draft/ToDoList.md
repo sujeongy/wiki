@@ -34,3 +34,7 @@
     + 현재는 파일을 나열해 작성 -> 추후 통합 및 분류 필요
 
 - [google developers - performance](https://developers.google.com/web/fundamentals/performance/why-performance-matters) 정리하면서 정독
+
+
+- [생활코딩 - 겁나 빠른 웹 레시피](https://opentutorials.org/course/2473/13570)
+:레이아웃 잡는거 말고도 랜덤이미지 생성기, 크롬확장 기능 만들기등 재밌는 소재가 많다.
