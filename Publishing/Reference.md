@@ -34,3 +34,4 @@
 - [NAVER Tech Talk: UIT 개발 밋업 (2018년 9월)](https://d2.naver.com/news/1953933)
 - [CSS - CSS Flex(Flexible Box) 완벽 가이드](https://heropy.blog/2018/11/24/css-flexible-box/)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://wit.nts-corp.com/2018/07/27/5274)
+- [20분이면 충분한 셀레니움 UI 테스트.](https://suk9.tistory.com/45?category=663928)
