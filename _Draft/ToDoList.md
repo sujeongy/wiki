@@ -38,3 +38,5 @@
 
 - [생활코딩 - 겁나 빠른 웹 레시피](https://opentutorials.org/course/2473/13570)
 :레이아웃 잡는거 말고도 랜덤이미지 생성기, 크롬확장 기능 만들기등 재밌는 소재가 많다.
+
+-[nuxt.js + axios](https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/)
