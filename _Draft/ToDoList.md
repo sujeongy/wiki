@@ -40,3 +40,5 @@
 :레이아웃 잡는거 말고도 랜덤이미지 생성기, 크롬확장 기능 만들기등 재밌는 소재가 많다.
 
 -[nuxt.js + axios](https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/)
+
+- [[번역] Path Variable과 Query Parameter는 언제 사용해야 할까?](https://ryan-han.com/post/translated/pathvariable_queryparam/)
