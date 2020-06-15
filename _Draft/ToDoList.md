@@ -44,3 +44,5 @@
 - [[번역] Path Variable과 Query Parameter는 언제 사용해야 할까?](https://ryan-han.com/post/translated/pathvariable_queryparam/)
 
 -[클라이언트 사이드 캐싱](https://medium.com/garimoo/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%BA%90%EC%8B%B1-71a3ca7727ff)
+
+- [webpack-node-externals](https://jamong-icetea.tistory.com/349)처럼 package 하나씩 정리
