@@ -46,3 +46,5 @@
 - [클라이언트 사이드 캐싱](https://medium.com/garimoo/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%BA%90%EC%8B%B1-71a3ca7727ff)
 
 - [webpack-node-externals](https://jamong-icetea.tistory.com/349)처럼 package 하나씩 정리
+
+-[쿼리 문자열 내에 배열을 전달하는 방법은 무엇입니까?](https://it-man.tistory.com/1307)) -> 이전에 get에서 받는 파라미터가 많을 경우, post로 data를 받는 경우가 많았다. 이전에 ARRNMAE[] = VALUE 이런식은 안좋다고 암묵적으로 좋지 않다고 생각하고 있었다..!.. 아주 잘못된 생각.. 제대로 정리할 것
