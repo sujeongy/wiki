@@ -50,6 +50,6 @@
 - [쿼리 문자열 내에 배열을 전달하는 방법은 무엇입니까?](https://it-man.tistory.com/1307)) -> 이전에 get에서 받는 파라미터가 많을 경우, post로 data를 받는 경우가 많았다. 이전에 ARRNMAE[] = VALUE 이런식은 안좋다고 암묵적으로 좋지 않다고 생각하고 있었다..!.. 아주 잘못된 생각.. 제대로 정리할 것
 
 
--[프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)
+- [프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)
 
 - [최적화 트리쉐이킹](https://ui.toast.com/weekly-pick/ko_20180716/)
