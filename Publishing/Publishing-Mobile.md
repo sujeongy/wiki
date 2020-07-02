@@ -11,6 +11,24 @@
 - placeholder issue
 
 
+> iPhone Safe Area
+- [노치(notch) 대응](https://wit.nts-corp.com/2019/10/24/5731)
+```
+<meta name='viewport' content='initial-scale=1, viewport-fit=cover'>
+```
+```
+.wrap {
+    padding-right:constant(safe-area-inset-right);
+    padding-left:constant(safe-area-inset-left);
+    padding-right:env(safe-area-inset-right);
+    padding-left:env(safe-area-inset-left);
+}
+.btn {
+    padding: 15px 0 calc(constant(safe-area-inset-bottom) + 15px);
+    padding: 15px 0 calc(env(safe-area-inset-bottom) + 15px);
+}
+```
+
 
 ## bug note
 - [모바일 웹 에서 keyup / keydown 이 마음대로 안되는 경우](https://eunsood.tistory.com/entry/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%9B%B9-%EC%97%90%EC%84%9C-keyup-keydown-%EC%9D%B4-%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C-%EC%95%88%EB%90%98%EB%8A%94-%EA%B2%BD%EC%9A%B0)
