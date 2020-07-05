@@ -1,16 +1,16 @@
 # JavaScrpt101
 
 ##### # Table of Contents
-1.basic syntax type
-1.scope(let, const, var 묶어서 설명)
-1.실행컨테스트
-1.클로져 closure
-1.호이스팅
-1.babel
-1.use strict
-1.SSR vs. CSR(vs.SPA)
-1.CORS
-1.Promise
+1. basic syntax type
+1. scope(let, const, var 묶어서 설명)
+1. 실행컨테스트
+1. 클로져 closure
+1. 호이스팅
+1. babel
+1. use strict
+1. SSR vs. CSR(vs.SPA)
+1. CORS
+1. Promise
 
 
 -babel
