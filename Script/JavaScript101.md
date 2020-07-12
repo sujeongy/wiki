@@ -13,7 +13,7 @@
 1. Promise
 
 
-### # babel
+### # Babel
 > babel + babel-polyfill
 
 babel: javascript compiler
