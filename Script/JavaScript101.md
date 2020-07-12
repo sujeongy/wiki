@@ -6,14 +6,14 @@
 1. 실행컨테스트
 1. 클로져 closure
 1. 호이스팅
-1. babel(#babel)
+1. [Babel](#babel)
 1. use strict
 1. SSR vs. CSR(vs.SPA)
 1. CORS
 1. Promise
 
 
-### # Babel
+### Babel
 > babel + babel-polyfill
 
 babel: javascript compiler
