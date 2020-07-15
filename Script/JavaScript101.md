@@ -13,6 +13,17 @@
 1. Promise
 
 
+### variable
+> var vs. const / let
+
+var: function scope / const, let: block scope
+es06부터는 const를 주로 쓰고, 재할당이 이뤄지는 것에만 let을 사용하자.
+const, let은 호이스팅이 일어나지 않는다.
+
+cf. [호이스팅 개념](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
+cf. [const에 대한 오해](https://hyunseob.github.io/2016/11/21/misunderstanding-about-const/)
+
+
 ### Babel
 > babel + babel-polyfill
 
