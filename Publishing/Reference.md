@@ -39,3 +39,4 @@
 - [css zoom resolution issue ref: UI/UX :: 개발을 위한 디자이너들의 기본](https://velog.io/@dus532/03-UIUX-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%93%A4%EC%9D%98-%EA%B8%B0%EB%B3%B8-2bk2o6rfgb)
 - [sweetalert2- scroll 높이 고정된 popup](https://sweetalert2.github.io/#usage)
 - [프로그레시브 렌더링 개요](https://help.salesforce.com/articleView?id=community_builder_prioritization_overview.htm&type=5)
+- [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
