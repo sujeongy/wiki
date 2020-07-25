@@ -8,8 +8,14 @@
 ```
 // 브랜치 확인
 git branch
+git branch -a // local + remote
 // 브랜치 변경
-git checkout <branchName>
+git checkout [브랜치명]
+// Branch(브랜치) 삭제하기
+git branch -d [브랜치명] //Local
+git branch -d [브랜치명] //Remote
+
+
 // 커밋 메시지 변경
 git commit --amend "commit message"
 ```

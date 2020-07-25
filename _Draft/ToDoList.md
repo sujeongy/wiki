@@ -51,6 +51,7 @@
 
 
 - [프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)
+- [웹팩4로 청크 관리 및 코드 스플리팅 하기](https://www.zerocho.com/category/Webpack/post/58ad4c9d1136440018ba44e7)
 
 - [최적화 트리쉐이킹](https://ui.toast.com/weekly-pick/ko_20180716/)
 

@@ -35,3 +35,7 @@
 - [CSS - CSS Flex(Flexible Box) 완벽 가이드](https://heropy.blog/2018/11/24/css-flexible-box/)
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://wit.nts-corp.com/2018/07/27/5274)
 - [20분이면 충분한 셀레니움 UI 테스트.](https://suk9.tistory.com/45?category=663928)
+- [CSS Animation](https://brunch.co.kr/@99-life/2)
+- [css zoom resolution issue ref: UI/UX :: 개발을 위한 디자이너들의 기본](https://velog.io/@dus532/03-UIUX-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EB%93%A4%EC%9D%98-%EA%B8%B0%EB%B3%B8-2bk2o6rfgb)
+- [sweetalert2- scroll 높이 고정된 popup](https://sweetalert2.github.io/#usage)
+- [프로그레시브 렌더링 개요](https://help.salesforce.com/articleView?id=community_builder_prioritization_overview.htm&type=5)

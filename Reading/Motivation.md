@@ -18,3 +18,5 @@
 - [영재학교, 칼텍을 다니면서 느낀 최고의 공부습관](https://blog.naver.com/todd0522/10173673554)
 - [해외서 더 난리난 한국 앱](https://1boon.kakao.com/jobsN/5e4a53a77391205c8a52e2fb?view=katalk)
 - [좋은 퍼블리셔란 무엇일까?](https://woowabros.github.io/woowabros/2016/07/15/good_publisher.html)
+- [인생 계획을 세우고 원하는 바를 달성하는 방법](https://evernote.com/blog/ko/how-to-make-a-plan/)
+- [여자, 비전공자, 개발자 2. 국비과정 들을 때, 팁 5가지](https://thepin.ch/knowledge/pT4j5/how-i-became-a-developer-2)
