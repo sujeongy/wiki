@@ -71,4 +71,4 @@
 
 
 ## # References
-- [2020년 6월 20일 개발 이야기 특집(클린코드](https://www.slideshare.net/jrogue/2020-6-20?ref=https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
+- [2020년 6월 20일 개발 이야기 특집(클린코드)](https://www.slideshare.net/jrogue/2020-6-20?ref=https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
