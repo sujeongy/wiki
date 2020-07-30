@@ -9,6 +9,8 @@ slider(ex. owl-carousel)내부에 lazy loading 옵션들이 존재해서
 요즘 로딩시,
 fade in 느낌으로 컨텐츠에 애니메이션을 주로 사용 + 레이즈 로딩도 같이 섞어서 사용중이다.
 
+라이브러리가 아닌 직접 구현 예정...(soon!🐱‍👤)
+
 
 ## # References
 - [jQuery Lazy loading - 지연로딩]]https://m.blog.naver.com/sgj4958/221827700698)
