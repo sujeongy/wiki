@@ -43,4 +43,18 @@ cf. [폴리필(polyfill)](https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A6%AC%ED%95
 
 ### # 빌트인 함수
 
+- toLocaleString
+    숫자를 천단위마다 콤마(,)를 찍기위해, 이전에는 정규식을 많이 이용
+    Data.prototype, Number.prototype 의 메소드
+    Object.prototype.toLocaleString() 메서드를 오버라이드 한다.
+
+
+- String -> Number 형변화
+    parseInt||parseFloat: 숫자로 시작하는 문자열은 모두 숫자로 변환 가능
+    Number: 숫자로 구성된 문자열만 숫자로 변환 가능
+
+
+
+cf. [HTML／CSS／JS/JavaScript
+[JavaScript/자바스크립트] 숫자 천 단위마다 콤마 찍는 내장 함수(toLocaleString)](https://this-programmer.com/entry/JavaScript%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%88%AB%EC%9E%90-%EC%B2%9C-%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EB%8A%94-%EB%82%B4%EC%9E%A5-%ED%95%A8%EC%88%98toLocaleString)
 cf. [parseInt()vs.Number()](https://jamong-icetea.tistory.com/14)
