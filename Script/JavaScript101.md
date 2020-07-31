@@ -3,7 +3,7 @@
 ##### # Table of Contents
 1. basic syntax type
 1. [scope(let, const, var 묶어서 설명)](#Variable)
-1. 실행컨테스트
+1. 실행컨텍스트
 1. 클로져 closure
 1. 호이스팅
 1. [Babel](#babel)
@@ -41,4 +41,6 @@ cf. [폴리필(polyfill)](https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A6%AC%ED%95
 
 ---
 
-### #
+### # 빌트인 함수
+
+cf. [parseInt()vs.Number()](https://jamong-icetea.tistory.com/14)
