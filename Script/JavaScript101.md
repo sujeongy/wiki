@@ -58,3 +58,15 @@ cf. [폴리필(polyfill)](https://ko.wikipedia.org/wiki/%ED%8F%B4%EB%A6%AC%ED%95
 cf. [HTML／CSS／JS/JavaScript
 [JavaScript/자바스크립트] 숫자 천 단위마다 콤마 찍는 내장 함수(toLocaleString)](https://this-programmer.com/entry/JavaScript%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%88%AB%EC%9E%90-%EC%B2%9C-%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EB%8A%94-%EB%82%B4%EC%9E%A5-%ED%95%A8%EC%88%98toLocaleString)
 cf. [parseInt()vs.Number()](https://jamong-icetea.tistory.com/14)
+
+
+### # <script>
+- [<script defer>](https://caniuse.com/#search=script%20defer)
+    HTML 파서가 종료될(DOM이 로딩이 끝날때) 때까지, 스크립트 실행을 늦춘다.
+
+- [<script async>](https://caniuse.com/#search=script%20async)
+    구글 애널리틱스 스크립트 등으 호출에 사용
+    HTML 파싱은 계속 되고 스크립트는 준비되었을 때 실행된다.
+
+
+cf. [Asynchronous and deferred JS execution explained](https://peter.sh/experiments/asynchronous-and-deferred-javascript-execution-explained/)
