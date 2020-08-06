@@ -59,3 +59,5 @@
 - [vue] getters, computed, 데이터 상태 처리 비교 분석
 
 - [성능 덕후를 위한 자바스크립트 코딩 패턴 (중급 이상)](https://joshuajangblog.wordpress.com/2016/11/21/javascript-coding-pattern-for-junior-web-developer/)
+
+- [HTML5 API - History](https://mygumi.tistory.com/299?category=648783)
