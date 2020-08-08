@@ -10,3 +10,4 @@
 - [(2016년도 자료) D2 Front - end 스터디 자료 공유](https://d2.naver.com/news/3552619)
 - [nginx 쉽게 설정하기](https://www.digitalocean.com/community/tools/nginx)
 - [nhn - 발표자료](https://forward.nhn.com/2019/seoul/presentation-session)
+- [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/?fbclid=IwAR39bBzLUUpKJsM-_zFqzRtU1wLH7Mcno68mSHP87sDXvU-Q9Bbh0956pjs)
