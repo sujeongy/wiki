@@ -9,3 +9,4 @@
 - [*필독 - [프로그래밍] 프로그래밍과 알고리즘 공부방법](https://javaiyagi.tistory.com/476)
 - [(2016년도 자료) D2 Front - end 스터디 자료 공유](https://d2.naver.com/news/3552619)
 - [nginx 쉽게 설정하기](https://www.digitalocean.com/community/tools/nginx)
+- [nhn - 발표자료](https://forward.nhn.com/2019/seoul/presentation-session)
