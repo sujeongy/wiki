@@ -20,3 +20,5 @@
 - [좋은 퍼블리셔란 무엇일까?](https://woowabros.github.io/woowabros/2016/07/15/good_publisher.html)
 - [인생 계획을 세우고 원하는 바를 달성하는 방법](https://evernote.com/blog/ko/how-to-make-a-plan/)
 - [여자, 비전공자, 개발자 2. 국비과정 들을 때, 팁 5가지](https://thepin.ch/knowledge/pT4j5/how-i-became-a-developer-2)
+- [동기부여가 되는 번아웃 극복기 - 내가 겪었던 번아웃, 그리고 극복했던 경험](https://evan-moon.github.io/2019/09/23/how-to-overcome-burnout/)
+- [나는 프론트엔드를 안다고 말할 수 있을까?](https://evan-moon.github.io/2020/03/02/what-is-knowing/)
