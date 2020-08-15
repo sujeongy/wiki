@@ -57,3 +57,4 @@
 - [developer-roadmap 2020](https://github.com/kamranahmedse/developer-roadmap)
 - [프런트엔드 개발 가이드](https://joshua1988.github.io/vue-camp/front-dev.html#%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%97%AD%ED%95%A0%EC%9D%98-%EB%B3%80%ED%99%94)
 - [프론트엔드 개발자를 위한 토막상식](https://parksb.github.io/article/0.html)
+- [개발자, 트렌드를 버리다.](https://medium.com/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-b5cbbf9ba958)
