@@ -1,6 +1,8 @@
 # Git
 
 ### # pull vs. fetch
+pull = fecth + merge
+
 
 ### # cherry pick
 
@@ -13,7 +15,7 @@ $ git branch -a // local + remote
 $ git checkout [브랜치명]
 // Branch(브랜치) 삭제하기
 $ git branch -d [브랜치명] //Local
-$ git branch -d [브랜치명] //Remote
+__$ git branch -d [브랜치명] //Remote__
 
 // 커밋 메시지 변경
 $ git commit --amend -m "commit message"
@@ -38,3 +40,6 @@ $ git remote set-url origin [변경할 git repo url]
 - [Git을 이용한 협업 워크플로우](https://lhy.kr/git-workflow)
 - [GitHub 저장소 이름 및 url 변경하기](https://12bme.tistory.com/43)
 - [Git - 수정한 것 되돌리기](http://hochulshin.com/git-revert-changes/)
+- [지금 당장 좋은 커밋 메시지를 남기는 방법](with Git Commit Template)
+- [git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011)
+- [Git 리모트(remote) 브랜치 생성 및 삭제하기](https://trustyoo86.github.io/git/2017/11/28/git-remote-branch-create.html)
