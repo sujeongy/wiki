@@ -10,3 +10,4 @@
 - [[기초]ToastUI - jQuery](https://ui.toast.com/fe-guide/ko_jQuery/)
 - [네이버D2 - jQuery는 이벤트를 어떻게 처리하는가?](https://d2.naver.com/helloworld/1855209)
 - [jQuery event에 특정 namespace를 만들어 제어하기](https://trustyoo86.github.io/javascript/2019/05/15/jquery-event-namespace.html)
+- [jQuery는 이벤트를 어떻게 처리하는가?](https://d2.naver.com/helloworld/1855209)
