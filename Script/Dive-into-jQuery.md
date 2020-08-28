@@ -11,3 +11,4 @@
 - [네이버D2 - jQuery는 이벤트를 어떻게 처리하는가?](https://d2.naver.com/helloworld/1855209)
 - [jQuery event에 특정 namespace를 만들어 제어하기](https://trustyoo86.github.io/javascript/2019/05/15/jquery-event-namespace.html)
 - [jQuery는 이벤트를 어떻게 처리하는가?](https://d2.naver.com/helloworld/1855209)
+- [17 Useful jQuery Tricks and Best Practices](https://mundrisoft.com/tech-bytes/17-useful-jquery-tricks-and-best-practices/)
