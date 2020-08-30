@@ -21,3 +21,4 @@
 - [인생 계획을 세우고 원하는 바를 달성하는 방법](https://evernote.com/blog/ko/how-to-make-a-plan/)
 - [동기부여가 되는 번아웃 극복기 - 내가 겪었던 번아웃, 그리고 극복했던 경험](https://evan-moon.github.io/2019/09/23/how-to-overcome-burnout/)
 - [나는 프론트엔드를 안다고 말할 수 있을까?](https://evan-moon.github.io/2020/03/02/what-is-knowing/)
+- [실무 개발자에게 알고리즘은 덜 중요할까?](https://medium.com/@ghilbut/%EC%8B%A4%EB%AC%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-fcbab7f87074)
