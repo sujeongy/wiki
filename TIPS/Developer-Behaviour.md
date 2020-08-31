@@ -31,3 +31,4 @@
 - [빠리의 택시 운전사 - 개발자 번아웃관리](https://geonlee.tistory.com/184?category=339703)
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
 - [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
+- [How to Get Better at Solving Programming Problems](https://levelup.gitconnected.com/how-to-get-better-at-solving-programming-problems-29e547555bf2)
