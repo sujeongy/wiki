@@ -13,3 +13,4 @@
 - [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/?fbclid=IwAR39bBzLUUpKJsM-_zFqzRtU1wLH7Mcno68mSHP87sDXvU-Q9Bbh0956pjs)
 -[디버깅 팁등 좋은 글 블로그](https://junwoo45til.netlify.app/#/til20/0615-0621)
 -[7 Awesome Command-Line Tools](https://medium.com/better-programming/7-awesome-command-line-tools-36cea5cfc026)
+-[vscode 프로처럼 사용하기](https://medium.com/better-programming/how-to-configure-vs-code-like-a-pro-782d2d718586)
