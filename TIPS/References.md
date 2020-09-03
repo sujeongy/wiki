@@ -14,3 +14,4 @@
 -[디버깅 팁등 좋은 글 블로그](https://junwoo45til.netlify.app/#/til20/0615-0621)
 -[7 Awesome Command-Line Tools](https://medium.com/better-programming/7-awesome-command-line-tools-36cea5cfc026)
 -[vscode 프로처럼 사용하기](https://medium.com/better-programming/how-to-configure-vs-code-like-a-pro-782d2d718586)
+- [프론트엔드 개발자 김민태님의 미디엄](https://medium.com/ibare-story)
