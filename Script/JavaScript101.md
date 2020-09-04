@@ -23,6 +23,7 @@ const, let은 호이스팅이 일어나지 않는다.<br>
 cf. [호이스팅 개념](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)<br>
 cf. [const에 대한 오해](https://hyunseob.github.io/2016/11/21/misunderstanding-about-const/)
 
+---
 
 ### Babel
 > babel + babel-polyfill
@@ -59,6 +60,7 @@ cf. [HTML／CSS／JS/JavaScript
 [JavaScript/자바스크립트] 숫자 천 단위마다 콤마 찍는 내장 함수(toLocaleString)](https://this-programmer.com/entry/JavaScript%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%88%AB%EC%9E%90-%EC%B2%9C-%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EB%8A%94-%EB%82%B4%EC%9E%A5-%ED%95%A8%EC%88%98toLocaleString)
 cf. [parseInt()vs.Number()](https://jamong-icetea.tistory.com/14)
 
+---
 
 ### # <script>
 - [<script defer>](https://caniuse.com/#search=script%20defer)
@@ -70,3 +72,8 @@ cf. [parseInt()vs.Number()](https://jamong-icetea.tistory.com/14)
 
 
 cf. [Asynchronous and deferred JS execution explained](https://peter.sh/experiments/asynchronous-and-deferred-javascript-execution-explained/)
+
+---
+
+##### 참고자료
+- [Javascript Boot CAMP](https://fastcampus-js-bootcamp.herokuapp.com/)
