@@ -32,3 +32,4 @@
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
 - [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
 - [How to Get Better at Solving Programming Problems](https://levelup.gitconnected.com/how-to-get-better-at-solving-programming-problems-29e547555bf2)
+- [요즘 개발팀에 필요한 인재상](https://jybaek.tistory.com/m/878?fbclid=IwAR24D9lDVT4CZI53h2uzZ0I1OJg50CqRT01V4l2POZbyOlFhuOiB9yPLA2Q)
