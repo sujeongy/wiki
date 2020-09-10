@@ -8,8 +8,6 @@
   
 - lodash 소스 분석
 
-- node.js 조합으로 SNS 구현하기
-
 - [Heroku](https://poiemaweb.com/nodejs-heroku)
 
 - [더보기]식의 고찰? 사색? 글쓰기
@@ -63,3 +61,5 @@
 - [HTML5 API - History](https://mygumi.tistory.com/299?category=648783)
 
 - [읽을 것 - 읽기 좋은 코드가 좋은코드다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788979149142&orderClick=LEA&Kc=)
+
+- [깃랩(Gitlab) CI/CD 튜토리얼](https://velog.io/@wickedev/Gitlab-CICD-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-bljzphditt)
