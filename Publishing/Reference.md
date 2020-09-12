@@ -40,4 +40,4 @@
 - [sweetalert2- scroll 높이 고정된 popup](https://sweetalert2.github.io/#usage)
 - [프로그레시브 렌더링 개요](https://help.salesforce.com/articleView?id=community_builder_prioritization_overview.htm&type=5)
 - [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
-- [로렘 입숨(Lorem Ipsum](https://www.lipsum.com/)
+- [임의 텍스트 생성-로렘 입숨(Lorem Ipsum)](https://www.lipsum.com/)
