@@ -18,10 +18,6 @@
 
 - 컴포넌트식 UI 만들기(codepen or jsfiddle, jsbin.. 등등에서 바로 확인 할 수 있도록, seeds쪽에는 codemirror 적용하기)
 
-- tip > 생산성부분 만들어, 관련 읽은 책 정리하기
-
-- 노션(notion)으로 문서 관리 및 작성 발전시키기
-
 - [npm에 모듈을 등록하면서 일어날 수 있는 일들](https://ui.toast.com/weekly-pick/ko_20170818/)을 읽고 역으로 생각하는 계기가 되었으면 좋겠다.
 
 - [UX 아카데미 오픈프로젝트 [넷플릭스- UX/UI 개선]](http://blog.rightbrain.co.kr/?p=11426)
@@ -37,8 +33,6 @@
 
 - [생활코딩 - 겁나 빠른 웹 레시피](https://opentutorials.org/course/2473/13570)
 :레이아웃 잡는거 말고도 랜덤이미지 생성기, 크롬확장 기능 만들기등 재밌는 소재가 많다.
-
-- [nuxt.js + axios](https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/)
 
 - [[번역] Path Variable과 Query Parameter는 언제 사용해야 할까?](https://ryan-han.com/post/translated/pathvariable_queryparam/)
 
