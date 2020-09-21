@@ -16,3 +16,4 @@
 -[vscode 프로처럼 사용하기](https://medium.com/better-programming/how-to-configure-vs-code-like-a-pro-782d2d718586)
 - [프론트엔드 개발자 김민태님의 미디엄](https://medium.com/ibare-story)
 - [정규식은 어떻게 사용되는 것일까?](https://evan-moon.github.io/2020/08/15/regex-example/?fbclid=IwAR1Pdyg1EBDY6huXugIk0PJrI9Z-IWbSXGFl5FmUE9lF7kpNoRXwQsLNdGk)
+- [해상도의 기준이 있어야 UI디자인을 시작할 수 있다](https://brunch.co.kr/@plusx/6)
