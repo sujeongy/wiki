@@ -44,4 +44,5 @@
 - [프로그레시브 렌더링 개요](https://help.salesforce.com/articleView?id=community_builder_prioritization_overview.htm&type=5)
 - [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
 - [임의 텍스트 생성-로렘 입숨(Lorem Ipsum)](https://www.lipsum.com/)
-- [접근 가능한 탭 UI 만들기](https://mulder21c.gi)thub.io/2018/06/04/how-to-make-accessible-tab-content/)
+- [접근 가능한 탭 UI 만들기](https://mulder21c.github.io/2018/06/04/how-to-make-accessible-tab-content/)
+- [[CSS] 16:9 등의 비율 Ratio 적용하는 방법과 팁](https://webisfree.com/2020-03-11/[css]-16-9-%EB%93%B1%EC%9D%98-%EB%B9%84%EC%9C%A8-ratio-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EA%B3%BC-%ED%8C%81)
