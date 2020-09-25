@@ -57,3 +57,5 @@
 - [읽을 것 - 읽기 좋은 코드가 좋은코드다](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788979149142&orderClick=LEA&Kc=)
 
 - [깃랩(Gitlab) CI/CD 튜토리얼](https://velog.io/@wickedev/Gitlab-CICD-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-bljzphditt)
+
+-[module.exports와 exports 차이 이해하기](https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/)
