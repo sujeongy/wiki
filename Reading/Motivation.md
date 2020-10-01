@@ -24,3 +24,4 @@
 - [실무 개발자에게 알고리즘은 덜 중요할까?](https://medium.com/@ghilbut/%EC%8B%A4%EB%AC%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-fcbab7f87074)
 - [호주 개발자로 살기](https://edykim.com/ko/category/life-in-australia/)
 - [개발관련 좋은글 모음](https://github.com/YouTaekJung/dev-collection)
+- [나는 어떻게 오픈소스 커뮤니티를 통해 성장했나](https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/)
