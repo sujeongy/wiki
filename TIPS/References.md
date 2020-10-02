@@ -19,3 +19,4 @@
 - [해상도의 기준이 있어야 UI디자인을 시작할 수 있다](https://brunch.co.kr/@plusx/6)
 - [ios 이미지 변환기 x2, x3](http://nsimage.brosteins.com/Home/UploadImage)
 - [네이버 스마트 주문 페이지 성능 개선 경험담 공유](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2#gaerae.com)
+- [풀스텍 자료](https://fullstackopen.com/en)
