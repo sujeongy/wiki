@@ -26,3 +26,4 @@
 - [개발관련 좋은글 모음](https://github.com/YouTaekJung/dev-collection)
 - [나는 어떻게 오픈소스 커뮤니티를 통해 성장했나](https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/)
 - [하루 25분 실행하기: 하루를 대하는 14년차 개발자의 자세](https://blog.shiren.dev/2020-09-07/?fbclid=IwAR1ZzmlQS5Zimlqa1YjyPViqZcqoxNqg6sgjHaDSzvTxtdddbFKcaPsPz7E)
+- [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
