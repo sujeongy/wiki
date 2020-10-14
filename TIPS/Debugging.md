@@ -7,3 +7,4 @@
 
 ### # References
 - [시니어 프론트엔드 개발자처럼 크롬 개발자도구 사용하기](https://junwoo45.github.io/2020-07-28-chrome_devtools/?fbclid=IwAR0r2zsS4aJBwiqyYvdtGg4J6-ROv7MFwlxYBsGkWaES2qL6EhWDQi5pi8Q)
+- [Chrome으로 디버깅하기](https://ko.javascript.info/debugging-chrome)
