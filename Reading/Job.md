@@ -7,3 +7,4 @@
 - [40대 개발자의 독일 회사 취업기](https://brunch.co.kr/@nashorn74/8)
 - [주니어 개발자 경력기술서 작성하기](https://gogomalibu.tistory.com/119)
 - [[기록] 99CON - 3번째 이야기: 이력서](http://honeymon.io/log/2019/09/26/99con-resume.html)
+- [[51Conference 2020] 👩‍💻 非개발자에서 🦅 飛개발자로](https://sujinlee.me/51conf-2020/)
