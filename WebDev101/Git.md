@@ -3,7 +3,6 @@
 ### # pull vs. fetch
 pull = fecth + merge
 
-
 ### # cherry pick
 
 ### # 자주 사용하는 것
@@ -34,6 +33,25 @@ $ git remote add origin [연결할 git repo url]
 //레파지토리 이름 변경
 $ git remote set-url origin [변경할 git repo url]
 ```
+
+### # Issue log
+- Issue
+  ```
+  fatal: remote error: Invalid username or password.
+  ```
+- Solved
+  ```
+  // #1 remote.origin.url 확인
+  $ git config --list
+  // #2 기존 url 제거
+  $ git remote remove origin
+  // #3 url 재연결
+  $ git remote add origin https://USERNAME:PASSWORD@<REPOSITORY URL>
+  // #4 변경된 url 확인 -> pull 정상작동 확인
+  $ git config --list
+  $ git pull
+  
+  ```
 
 ## # References  
 - [Git을 사용할 때 알아야 할 4 가지](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%E]C%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
