@@ -21,6 +21,15 @@
 ** 이미 번아웃 상태일 경우,
  새로운 언어를 배워보자. C++, python 등등               
   
+## 마인드셋
+자기 주관대로 공부하자.
+1. 내가 이 공부를 왜 해야하는 지 알고 하자.
+1. 남들이 다 React한다고 나도 반드시 React를 해야할 필요는 없다.
+  
 ## # References  
 - [닥코 - 노트정리](https://www.youtube.com/watch?v=DuWSGCOOa9Q)
 - [빠리의 택시 운전사 - 개발자 번아웃관리](https://geonlee.tistory.com/184?category=339703)
+- [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
+- [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
+- [How to Get Better at Solving Programming Problems](https://levelup.gitconnected.com/how-to-get-better-at-solving-programming-problems-29e547555bf2)
+- [요즘 개발팀에 필요한 인재상](https://jybaek.tistory.com/m/878?fbclid=IwAR24D9lDVT4CZI53h2uzZ0I1OJg50CqRT01V4l2POZbyOlFhuOiB9yPLA2Q)
