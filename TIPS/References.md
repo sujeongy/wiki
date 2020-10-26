@@ -21,3 +21,4 @@
 - [풀스텍 자료](https://fullstackopen.com/en)
 - [vscode tip](https://stackoverflow.com/questions/47207530/remove-white-box-html-tag-trackers-in-vscode)
 - [Full, free MIT courses on Computer Science and Programming. Plus free advice.](https://imgur.com/gallery/NMfbeEP)
+- [윈도우즈에서 소프트웨어 설치를 쉽게 할 수 있는 툴, Chocolatey!](https://steemit.com/kr/@orlein/chocolatey)
