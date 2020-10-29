@@ -8,9 +8,6 @@
   
 - lodash 소스 분석
 
-- [더보기]식의 고찰? 사색? 글쓰기
-  ex. button location.href vs. a href? 무엇을 써야할까?/[select ui] 반응형일때 사용하면 2벌로 구현을 해야하나?
-
 - [semantic UI](https://semantic-ui.com/) 같은 개인용 UI 라이브러리 만들어보기 
     +참고 자료 : [생활코딩](https://opentutorials.org/course/2737)
 
@@ -59,3 +56,5 @@
 - [module.exports와 exports 차이 이해하기](https://jongmin92.github.io/2016/08/25/Node/module-exports_exports/)
 
 - [Using React + Google Sheets as your CMS](https://medium.com/@ryan.mcnierney/using-react-google-sheets-as-your-cms-294c02561d59)
+
+- [eslint - lint-staged](https://www.huskyhoochu.com/how-to-use-lint-staged/)
