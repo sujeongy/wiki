@@ -32,6 +32,14 @@ $ git remote add origin [연결할 git repo url]
 
 //레파지토리 이름 변경
 $ git remote set-url origin [변경할 git repo url]
+
+//사용자 이름, 이메일 변경
+git config --global user.name "유수정"
+git config --global user.email "yoosj0703@gmail.com"
+
+//삭제
+git config --unset  user.name
+git config --unset --global user.name
 ```
 
 ### # Issue log
