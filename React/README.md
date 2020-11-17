@@ -9,3 +9,4 @@
 - [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](https://d2.naver.com/helloworld/4966453)
 - [Redux로의 카툰 안내서](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
 - [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
+- [Difference between hot reload and fast refresh in react-native](https://stackoverflow.com/questions/59085281/difference-between-hot-reload-and-fast-refresh-in-react-native)
