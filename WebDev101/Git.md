@@ -4,6 +4,7 @@
 pull = fecth + merge
 
 ### # cherry pick
+(..pending)
 
 ### # 자주 사용하는 것
 ```
@@ -14,10 +15,12 @@ $ git branch -a // local + remote
 $ git checkout [브랜치명]
 // Branch(브랜치) 삭제하기
 $ git branch -d [브랜치명] //Local
-__$ git branch -d [브랜치명] //Remote__
 
 // 커밋 메시지 변경
+// #1 push 전
 $ git commit --amend -m "commit message"
+// #2 push 후
+$ git rebase HEAD~[해당숫자]
 
 //수정 되돌리기
 //git add 명령을 하기 이전(stage에 올리지 않은 경우)
@@ -41,6 +44,22 @@ git config --global user.email "yoosj0703@gmail.com"
 git config --unset  user.name
 git config --unset --global user.name
 ```
+
+### 리눅스(Linux) 명령어
+> Git 이용시, 함께 자주 사용하는 스크립트 정리
+
+1. `;`(semicolon) vs. `&&`
+> 공통적으로 명령어들을 순차적으로 실행할 때 사용
+`&&` 전제가 1ㅊ`true`여만 다음 명령어 실행 / `;`는 `true`여부와 상관없이 순차적으로 실행
+
+2. rm(remove) 명령어 - 파일, 폴더 삭제
+```
+// 해당 폴더와 그 폴더 하위 모든 파일, 폴더 삭제
+$ rm -rf [폴더명]
+// rm -f 강제 삭제
+// rm -r 모든 파일, 폴더 삭제
+```
+
 
 ### # Issue log
 - Issue
