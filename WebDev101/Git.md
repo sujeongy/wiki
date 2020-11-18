@@ -54,7 +54,10 @@ git config --unset --global user.name
 
 1. `;`(semicolon) vs. `&&`
 > 공통적으로 명령어들을 순차적으로 실행할 때 사용
-`&&` 전제가 1ㅊ`true`여만 다음 명령어 실행 / `;`는 `true`여부와 상관없이 순차적으로 실행
+`&&` 전제가 `true`여만 다음 명령어 실행 / `;`는 `true`여부와 상관없이 순차적으로 실행
+```
+$ rm -rf .next && npm run build && ..
+```
 
 2. rm(remove) 명령어 - 파일, 폴더 삭제
 ```
