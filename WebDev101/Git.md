@@ -20,7 +20,11 @@ $ git branch -d [브랜치명] //Local
 // #1 push 전
 $ git commit --amend -m "commit message"
 // #2 push 후
-$ git rebase HEAD~[해당숫자]
+// 1) $ git rebase HEAD~[커밋의 역순의 index] -i
+$ git rebase HEAD~1-i
+// 2) [insert] pick -> reword
+// 3) `i`를 입력하여 편집모드로 수정 -> `ESC` -> `:wq!`
+$ git push -f
 
 //수정 되돌리기
 //git add 명령을 하기 이전(stage에 올리지 않은 경우)
