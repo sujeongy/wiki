@@ -25,6 +25,11 @@
 자기 주관대로 공부하자.
 1. 내가 이 공부를 왜 해야하는 지 알고 하자.
 1. 남들이 다 React한다고 나도 반드시 React를 해야할 필요는 없다.
+
+## 질문하는 법
+> `그냥`은 없다.
+- 정답이 있는 질문 - "예/아니오"로 대답할 수 있도록 질문
+- 정답이 없는 질문 - 토론으로 이뤄지게 자신의 입장 정리후 질문
   
 ## # References  
 - [닥코 - 노트정리](https://www.youtube.com/watch?v=DuWSGCOOa9Q)
@@ -32,4 +37,5 @@
 - [개발자가 공부로 살아남는 방법](https://evan-moon.github.io/2019/08/26/how-does-developer-study/)
 - [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
 - [How to Get Better at Solving Programming Problems](https://levelup.gitconnected.com/how-to-get-better-at-solving-programming-problems-29e547555bf2)
-- [요즘 개발팀에 필요한 인재상](https://jybaek.tistory.com/m/878?fbclid=IwAR24D9lDVT4CZI53h2uzZ0I1OJg50CqRT01V4l2POZbyOlFhuOiB9yPLA2Q)
+- [요즘 개발팀에 필요한 인재상](https://jybaek.tistory.com/m/878?fbclid=IwAR24D9lDVT4CZI53h2uzZ0I1OJg50CqRT01V4l2POZbyOlFhuOiB9yPLA2Q)\
+- [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
