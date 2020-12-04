@@ -14,6 +14,16 @@ npm uninstall --save react react-dom react-scripts
 npm install --save react@16.13.1 react-dom@16.14.1 react-scripts@3.4.4
 ```
 
+## Get Tree `file`
+```
+// only folder
+$ tree
+$ tree -a // text
+// with files
+$ tree -f
+
+```
+
 
 # npx
 > `npx create-react-app`처럼 일회성에 자주 사용
