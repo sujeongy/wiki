@@ -21,7 +21,6 @@ $ tree
 $ tree -a // text
 // with files
 $ tree -f
-
 ```
 
 
