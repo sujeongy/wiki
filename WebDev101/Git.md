@@ -49,6 +49,15 @@ git config --unset  user.name
 git config --unset --global user.name
 ```
 
+### git commit template
+> `git commit msg template`
+1. `git-commit-template.txt`에 `commit convention`작성
+1. git에 설정해주기
+```bash
+$ git config --global commit.template [해당루트]/git-commit-template.txt
+```
+
+
 ### 리눅스(Linux) 명령어
 > Git 이용시, 함께 자주 사용하는 스크립트 정리
 
@@ -99,3 +108,4 @@ $ rm -rf [폴더명]
 - [효율적인 commit message 작성을 위한 conventional commits](https://medium.com/humanscape-tech/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-commit-message-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-conventional-commits-ae885898e754)
 - [karma git-commit-msg](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
 - [conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+- [git template 설정하기 - 기본기를 쌓는 정아마추어 코딩블로그](https://jeong-pro.tistory.com/207)
