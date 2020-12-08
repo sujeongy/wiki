@@ -54,7 +54,7 @@ git config --unset --global user.name
 1. `git-commit-template.txt`에 `commit convention`작성
 1. git config commit.template에 설정해주기
 1. `git commit` -> 해당 템플릿으로 이동
-1. `insert`키로 commit msg 작성후 -> *:qa*로 끝내기(`:qa!`가 아님!!: Aborting commit; you did not edit the message 발생원인)
+1. `insert`키로 commit msg 작성후 -> *:qa*로 끝내기(`:qw!`가 아님!!: Aborting commit; you did not edit the message 발생원인)
 1. 커밋 확인 -> `git push`
 ```bash
 $ git config --global commit.template [해당루트]/git-commit-template.txt
