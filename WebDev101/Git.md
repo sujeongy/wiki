@@ -9,8 +9,11 @@ pull = fecth + merge
 ### # 자주 사용하는 것
 ```
 // **[브랜치명]은 `-`를 사용해 띄워쓴다.
+// 브랜치 갱신
+$ git remote update
 // 브랜치 확인
-$ git branch
+$ git branch // local
+$ git branch -r // remote
 $ git branch -a // local + remote
 // 브랜치 생성
 $ git branch [브랜치명]
@@ -20,6 +23,7 @@ $ git checkout -b [브랜치명]
 $ git checkout [브랜치명]
 // remote 브랜치 가져오기
 $ git fetch && git checkout [브랜치명]
+$ git checkout -t [브랜치명]
 // Branch(브랜치) 삭제하기
 $ git branch -d [브랜치명] //Local
 
