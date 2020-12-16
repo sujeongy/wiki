@@ -18,6 +18,8 @@ $ git branch [브랜치명]
 $ git checkout -b [브랜치명]
 // 브랜치 변경
 $ git checkout [브랜치명]
+// remote 브랜치 가져오기
+$ git fetch && git checkout [브랜치명]
 // Branch(브랜치) 삭제하기
 $ git branch -d [브랜치명] //Local
 
