@@ -25,7 +25,10 @@ $ git checkout [브랜치명]
 $ git fetch && git checkout [브랜치명]
 $ git checkout -t [브랜치명]
 // Branch(브랜치) 삭제하기
-$ git branch -d [브랜치명] //Local
+$ git branch -d [브랜치명] // local
+$ git push origin --delete [브랜치명] // remote
+// 유효하지 않은 브랜치 
+$ git remote prune origin
 
 
 // 커밋 메시지 변경
@@ -132,3 +135,4 @@ $ rm -rf [폴더명]
 - [karma git-commit-msg](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
 - [conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 - [git template 설정하기 - 기본기를 쌓는 정아마추어 코딩블로그](https://jeong-pro.tistory.com/207)
+- [리모트 브랜치 참조와 업데이트](https://mylko72.gitbooks.io/git/content/remote/remote_update.html)
