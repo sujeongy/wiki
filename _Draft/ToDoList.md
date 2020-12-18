@@ -60,3 +60,5 @@
 - [고통없는 UI 개발을 위한 Storybook](https://jbee.io/tool/storybook-intro/)
 
 - [storyblok](https://www.storyblok.com/tp/headless-cms-explained)
+
+- [JavaScript 모나드](https://edykim.com/ko/post/javascript-monad/)
