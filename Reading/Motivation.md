@@ -28,3 +28,4 @@
 - [하루 25분 실행하기: 하루를 대하는 14년차 개발자의 자세](https://blog.shiren.dev/2020-09-07/?fbclid=IwAR1ZzmlQS5Zimlqa1YjyPViqZcqoxNqg6sgjHaDSzvTxtdddbFKcaPsPz7E)
 - [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
 - [[번역] 구글 기술면접, 야 너두 할 수 있어!](https://baeharam.netlify.app/posts/interview/%EA%B5%AC%EA%B8%80-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%95%BC-%EB%84%88%EB%91%90-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4!)
+- [[개발] 1년차 개발자가 공부하는 방법](https://medium.com/react-native-seoul/%EA%B0%9C%EB%B0%9C-1%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-5e432779f779)
