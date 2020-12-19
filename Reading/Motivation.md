@@ -27,3 +27,4 @@
 - [나는 어떻게 오픈소스 커뮤니티를 통해 성장했나](https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/)
 - [하루 25분 실행하기: 하루를 대하는 14년차 개발자의 자세](https://blog.shiren.dev/2020-09-07/?fbclid=IwAR1ZzmlQS5Zimlqa1YjyPViqZcqoxNqg6sgjHaDSzvTxtdddbFKcaPsPz7E)
 - [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
+- [[번역] 구글 기술면접, 야 너두 할 수 있어!](https://baeharam.netlify.app/posts/interview/%EA%B5%AC%EA%B8%80-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%95%BC-%EB%84%88%EB%91%90-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4!)
