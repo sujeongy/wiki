@@ -62,3 +62,5 @@
 - [storyblok](https://www.storyblok.com/tp/headless-cms-explained)
 
 - [JavaScript 모나드](https://edykim.com/ko/post/javascript-monad/)
+
+- [서버리스 아키텍쳐란?](https://velopert.com/3543)
