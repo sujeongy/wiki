@@ -15,3 +15,4 @@
 - [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
 - [최적화 - How To Handle Async Data Loading, Lazy Loading, and Code Splitting with React](https://www.digitalocean.com/community/tutorials/how-to-handle-async-data-loading-lazy-loading-and-code-splitting-with-react)
 - [Dan Abramov의 블로그 -Overreacted](https://overreacted.io/)
+- [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
