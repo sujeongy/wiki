@@ -40,3 +40,4 @@
 - [요즘 개발팀에 필요한 인재상](https://jybaek.tistory.com/m/878?fbclid=IwAR24D9lDVT4CZI53h2uzZ0I1OJg50CqRT01V4l2POZbyOlFhuOiB9yPLA2Q)
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - [이직 제안 줄서는 개발자! 나는 이렇게 공부 했다. (돈 좀 버는 개발자 2부)](https://www.youtube.com/watch?v=U8Y3wZEtR98)
+- [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
