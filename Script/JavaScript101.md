@@ -77,3 +77,4 @@ cf. [Asynchronous and deferred JS execution explained](https://peter.sh/experime
 
 ##### 참고자료
 - [Javascript Boot CAMP](https://fastcampus-js-bootcamp.herokuapp.com/)
+- [Chrome V8 엔진에서 자바스크립트 성능 향상 방법](https://joshua1988.github.io/web-development/web-perf/perf-tip-javascript-in-v8/)
