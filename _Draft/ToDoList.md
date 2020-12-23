@@ -64,3 +64,5 @@
 - [JavaScript 모나드](https://edykim.com/ko/post/javascript-monad/)
 
 - [서버리스 아키텍쳐란?](https://velopert.com/3543)
+
+- [Vanilla JS에서 SPA 라우팅 시스템 구현하기](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
