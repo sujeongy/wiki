@@ -60,8 +60,11 @@ git config --global user.name "유수정"
 git config --global user.email "yoosj0703@gmail.com"
 
 //삭제
-git config --unset  user.name
-git config --unset --global user.name
+$ git config --unset  user.name
+$ git config --unset --global user.name
+
+// gitignore 나중에 선택할 때, 이전 커밋삭제
+$ git rm -r --cached .
 ```
 
 ### git commit template
