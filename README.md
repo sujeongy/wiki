@@ -16,7 +16,7 @@
 
 
 ### 스크립트
-- [자바스크리트101](Script/JavaScript101.md)
+- [자바스크립트101](Script/JavaScript101.md)
 - [Clean Code](Script/Clean-Code.md)
 - [_(예정)jQuery 분석](Script/Dive-into-jQuery.md)
 - [_(예정)Tiny-Slider 분석](Script/Tiny-Slider.md)
