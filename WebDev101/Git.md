@@ -46,11 +46,19 @@ $ git push -f
 //repository 내 모든
 $ git checkout .
 
+
 //특정 폴더||파일 아래의 모든
 $ git checkout {dir}||{file_name}
 
+
 //레파지토리 연결
 $ git remote add origin [연결할 git repo url]
+//upstream 연결후, 소스 상태 갱신
+$ git remote add upstream [연결할 git repo url]
+$ git remote // 연결확인 origin, upstream 존재
+$ git fetch upstream
+$ git merge upstream/main
+
 
 //레파지토리 이름 변경
 $ git remote set-url origin [변경할 git repo url]
