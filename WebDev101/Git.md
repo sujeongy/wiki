@@ -86,6 +86,8 @@ $ git rm -r --cached .
 $ git config --global commit.template [해당루트]/git-commit-template.txt
 ```
 
+### Code reviews
+
 
 ### 리눅스(Linux) 명령어
 > Git 이용시, 함께 자주 사용하는 스크립트 정리
@@ -147,3 +149,5 @@ $ rm -rf [폴더명]
 - [conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 - [git template 설정하기 - 기본기를 쌓는 정아마추어 코딩블로그](https://jeong-pro.tistory.com/207)
 - [리모트 브랜치 참조와 업데이트](https://mylko72.gitbooks.io/git/content/remote/remote_update.html)
+- [[번역] Github 를 통해 이미 작성한 코드를 리뷰하는 방법](https://blog.kshgroup.kr/code-reviews-for-existing-code-with-github/)
+- [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
