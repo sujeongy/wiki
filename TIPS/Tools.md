@@ -1,6 +1,15 @@
 # Editor
 
 ## # vscode
+- 자주 쓰는 단축키
+```
+// insert line below: 코드중간에서 다음줄로 이동하고 싶을때
+Ctrl + Enter
+// Undo last Cursor: 이전 위치 커서
+Ctrl + U
+// current selection
+Shift + Alt + i // 선택된 블록 각줄 뒷부분에 커서생성
+```
 - **vscode `tab` not working**
 > `tab` key 제대로 동작하지 않아, `space`입력이나 `emmet`동작이 되지 않았다.
 
