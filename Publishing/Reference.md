@@ -8,6 +8,8 @@
 ## TOOLS
 - [Troy - Responsive web tester](http://troy.labs.daum.net/)
 
+## CSS
+- [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 ## 디자인 관련
 - [밀레의 서재 디자인시스템](https://brunch.co.kr/@milliedesign/5)
