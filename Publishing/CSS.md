@@ -41,3 +41,8 @@
   #### # 참고
   - [stackoverflow - IOS HTML disable double tap to zoom](https://stackoverflow.com/questions/46167604/ios-html-disable-double-tap-to-zoom)
   
+
+--
+
+## 도움되는 자료
+- [Using Chrome DevTools to debug CSS Grid](https://blog.logrocket.com/using-chrome-devtools-to-debug-css-grid/)
