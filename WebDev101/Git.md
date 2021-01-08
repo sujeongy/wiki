@@ -86,8 +86,6 @@ $ git rm -r --cached .
 $ git config --global commit.template [해당루트]/git-commit-template.txt
 ```
 
-### Code reviews
-
 
 ### 리눅스(Linux) 명령어
 > Git 이용시, 함께 자주 사용하는 스크립트 정리
@@ -127,11 +125,6 @@ $ rm -rf [폴더명]
   $ git pull
   
   ```
-
-
-##### # Add tab completion for Git branches in Powershell
-> pending..
-- Solved
 
 
 
