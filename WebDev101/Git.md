@@ -73,6 +73,17 @@ $ git config --unset --global user.name
 
 // gitignore 나중에 선택할 때, 이전 커밋삭제
 $ git rm -r --cached .
+
+// stash
+$ git stash
+$ git stash save
+
+$ git stash list
+
+$ git stash apply
+$ git stash apply [stash 이름]
+$ git stash drop
+$ git stash drop [stash 이름]
 ```
 
 ### git commit template
