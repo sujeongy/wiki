@@ -1,7 +1,7 @@
 # Editor
 
-## # vscode
-- 자주 쓰는 단축키
+## VS Code
+  ### #자주 쓰는 단축키
 ```
 // insert line below: 코드중간에서 다음줄로 이동하고 싶을때
 Ctrl + Enter
@@ -10,7 +10,18 @@ Ctrl + U
 // current selection
 Shift + Alt + i // 선택된 블록 각줄 뒷부분에 커서생성
 ```
-- **vscode `tab` not working**
+
+---
+
+### # Extension
+- [TODO Hightligh](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight#review-details)
+- [Tabout](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
+
+
+---
+
+### # Issue Log
+##### **vscode `tab` not working**
 > `tab` key 제대로 동작하지 않아, `space`입력이나 `emmet`동작이 되지 않았다.
 
  - [해결법]
@@ -19,9 +30,7 @@ Shift + Alt + i // 선택된 블록 각줄 뒷부분에 커서생성
   "emmet.triggerExpansionOnTab": false
   ```
 
----
-
-- **`prettier` not working**
+#### **`prettier` not working**
 > 기존에 동작하던 `.prettierrc`가 동작하지 않는다.
    
   [접근법]
@@ -46,3 +55,6 @@ Shift + Alt + i // 선택된 블록 각줄 뒷부분에 커서생성
   결국은 `.prettierrc` 파일이 '짱'이다.
   출처: https://uxgjs.tistory.com/150 [UX 공작소]
   ```
+
+
+---
