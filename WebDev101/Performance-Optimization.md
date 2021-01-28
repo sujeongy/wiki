@@ -4,3 +4,4 @@
 
 ## # References
 - [TOASTUI - 성능최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE/)
+- [라이트하우스 6.0에서 바뀐 성능 지표변화](https://meetup.toast.com/posts/242)
