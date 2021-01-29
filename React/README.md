@@ -19,3 +19,4 @@
 - [전역 상태 관리에 대한 단상 (stale-while-revalidate)](https://jbee.io/react/thinking-about-global-state/)
 - [리액트 useEffect: 개발자가 알아야 할 네가지 팁](https://ui.toast.com/weekly-pick/ko_20200916)
 - [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
+- [story book 좋은 예제](https://streamich.github.io/react-use/?path=/story/components-usekey--demo)
