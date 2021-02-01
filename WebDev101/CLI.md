@@ -22,7 +22,8 @@ $ tree -a // text
 // with files
 $ tree -f
 ```
-
+** `bash`에서 는 작동하지 않음 -> `powershell`에서 사용할 것
+- [참고 how do I add the 'tree' command to git-bash on Windows?](https://superuser.com/questions/531592/how-do-i-add-the-tree-command-to-git-bash-on-windows)
 
 # npx
 > `npx create-react-app`처럼 일회성에 자주 사용
