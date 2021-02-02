@@ -5,4 +5,4 @@
 - [미디움 - Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
 ## # See also
-- 
+- [Semantic Versioning이란?](https://velog.io/@iamjoo/Semantic-Versioning%EC%9D%B4%EB%9E%80)
