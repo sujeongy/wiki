@@ -21,3 +21,4 @@
 - [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
 - [story book 좋은 예제](https://streamich.github.io/react-use/?path=/story/components-usekey--demo)
 - [Learn Webpack for React](https://esausilva.com/2018/01/13/learn-webpack-for-react/)
+- [API 재로딩 문제 해결하기](https://react.vlpt.us/redux-middleware/06-fix-reloading.html)
