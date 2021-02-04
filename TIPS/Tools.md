@@ -1,7 +1,7 @@
 # Editor
 
 ## VS Code
-  ### #자주 쓰는 단축키
+  #### #자주 쓰는 단축키
 ```
 // insert line below: 코드중간에서 다음줄로 이동하고 싶을때
 Ctrl + Enter
@@ -13,7 +13,7 @@ Shift + Alt + i // 선택된 블록 각줄 뒷부분에 커서생성
 
 ---
 
-### # Extension
+#### # Extension
 - [TODO Hightligh](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight#review-details)
 - [Tabout](https://marketplace.visualstudio.com/items?itemName=albert.TabOut)
 
