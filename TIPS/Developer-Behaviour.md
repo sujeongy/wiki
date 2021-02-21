@@ -23,13 +23,20 @@
   
 ## 마인드셋
 자기 주관대로 공부하자.
-1. 내가 이 공부를 왜 해야하는 지 알고 하자.
-1. 남들이 다 React한다고 나도 반드시 React를 해야할 필요는 없다.
+1. 내가 이 공부를 왜 해야하는지 알고 하자.
+1. 남들이 다 `React`한다고 나도 반드시 `React`를 해야할 필요는 없다.
+1. 실수를 통해서 배우자
+1. 능동적으로 행동해라
+1. 시니어처럼 행동해라
+1. 전체적인 시나리오를 빠르게 파악할 수 있도록 행동해라
+1. 새로운 것을 배우려고 노력해라.
 
 ## 질문하는 법
 > `그냥`은 없다.
 - 정답이 있는 질문 - "예/아니오"로 대답할 수 있도록 질문
 - 정답이 없는 질문 - 토론으로 이뤄지게 자신의 입장 정리후 질문
+
+
   
 ## # References  
 - [닥코 - 노트정리](https://www.youtube.com/watch?v=DuWSGCOOa9Q)
@@ -41,3 +48,4 @@
 - [질문을 잘하는 개발자](https://jbee.io/essay/good_questionor/)
 - [이직 제안 줄서는 개발자! 나는 이렇게 공부 했다. (돈 좀 버는 개발자 2부)](https://www.youtube.com/watch?v=U8Y3wZEtR98)
 - [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
+- [성장하는 개발자 (시니어 개발자, 테크 리더로 성장한 개발 노트공개) ](https://www.youtube.com/watch?v=T7y6Hl0YZ14)
