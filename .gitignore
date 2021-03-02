@@ -3,5 +3,4 @@
 *.log
 Thumbs.db
 node_modules/
-dist/
 src/*.js
