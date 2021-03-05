@@ -5,7 +5,7 @@
   "repository": "https://github.com/sujeongy/wiki.git",
   "author": "KrystalY <yoosj0703@gmail.com>",
   "scripts": {
-    "docs:dev": "vuepress dev --port 8000",
+    "docs:dev": "vuepress dev docs --port 8000",
     "docs:build": "vuepress build docs"
   },
   "license": "MIT",

@@ -1,6 +1,4 @@
-﻿현재는 **좋은 글** 저장소로 유지되고 있습니다.
-
-# WebDev101
+﻿# WebDev101
 
 ## [브라우저의 이해](docs/WebDev101/How-Browser-Work.md)
 

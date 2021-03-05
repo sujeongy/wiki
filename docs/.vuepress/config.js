@@ -2,7 +2,7 @@ module.exports = {
   title: "Wiki @sujeongy",
   description: "Today I Learned,",
   head: [
-    ["link", { rel: "icon", href: `/images/logo-144.png` }],
+    ["link", { rel: "icon", href: "/images/logo-144.png" }],
     ["link", { rel: "manifest", href: "/manifest.json" }],
   ],
   themeConfig: {
@@ -15,7 +15,11 @@ module.exports = {
       },
       { text: "Github", link: "https://github.com/sujeongy/wiki" },
     ],
-    sidebar: "auto",
+    sidebar: [
+      //사이드바 링크
+      ["/", "사이드바 메뉴１"],
+      ["/about.html", "사이드바 메뉴２"],
+    ],
     smoothScroll: true,
   },
   plugins: [
