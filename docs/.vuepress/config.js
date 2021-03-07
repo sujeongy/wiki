@@ -2,7 +2,7 @@ module.exports = {
   title: "Wiki @sujeongy",
   description: "Today I Learned,",
   head: [
-    ["link", { rel: "icon", href: `/images/logo-144.png` }],
+    ["link", { rel: "icon", href: "/images/logo-144.png" }],
     ["link", { rel: "manifest", href: "/manifest.json" }],
   ],
   themeConfig: {
@@ -45,13 +45,13 @@ module.exports = {
           "/resource/Web/CLI.html",
           // "/resource/Web/Coding-Math.html",
           // "/resource/Web/Domain-Name-System.html",
-          // "/resource/Web/Git.html",
+          "/resource/Web/Git.html",
           // "/resource/Web/Home-Sever.html",
           // "/resource/Web/HTTP.html",
           // "/resource/Web/Performance-Optimization.html",
           // "/resource/Web/SEO.html",
-          // "/resource/Web/Term.html",
-          // "/resource/Web/Web-Architecture.html",
+          "/resource/Web/Term.html",
+          "/resource/Web/Web-Architecture.html",
         ],
       },
       {

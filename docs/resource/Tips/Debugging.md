@@ -1,4 +1,4 @@
-# debugging
+# Debugging
 
 > 디버깅 관련 자료 수집
 
