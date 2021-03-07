@@ -41,7 +41,7 @@ module.exports = {
       {
         title: "WebDev101",
         children: [
-          "/resource/Web/API.html",
+          // "/resource/Web/API.html",
           "/resource/Web/CLI.html",
           // "/resource/Web/Coding-Math.html",
           // "/resource/Web/Domain-Name-System.html",
@@ -50,8 +50,8 @@ module.exports = {
           // "/resource/Web/HTTP.html",
           // "/resource/Web/Performance-Optimization.html",
           // "/resource/Web/SEO.html",
-          "/resource/Web/Term.html",
-          "/resource/Web/Web-Architecture.html",
+          // "/resource/Web/Term.html",
+          // "/resource/Web/Web-Architecture.html",
         ],
       },
       {
