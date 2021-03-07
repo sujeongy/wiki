@@ -2,7 +2,7 @@ module.exports = {
   title: "Wiki @sujeongy",
   description: "Today I Learned,",
   head: [
-    ["link", { rel: "icon", href: `/images/logo-144.png` }],
+    ["link", { rel: "icon", href: "/images/logo-144.png" }],
     ["link", { rel: "manifest", href: "/manifest.json" }],
   ],
   themeConfig: {
@@ -15,8 +15,60 @@ module.exports = {
       },
       { text: "Github", link: "https://github.com/sujeongy/wiki" },
     ],
-    sidebar: "auto",
     smoothScroll: true,
+    sidebar: [
+      {
+        title: "Javascript",
+        collapsable: false,
+        children: [
+          "/resource/Script/Basic.html",
+          "/resource/Script/Clean-Code.html",
+          "/resource/Script/Dive-into-jQuery.html",
+          "/resource/Script/ErrorHandling.html",
+        ],
+      },
+      {
+        title: "Publishing",
+        // path: "/resource/Publishing",
+        children: [
+          "/resource/Publishing/Markup.html",
+          "/resource/Publishing/CSS.html",
+          "/resource/Publishing/Publishing-Mobile.html",
+          "/resource/Publishing/UX.html",
+          "/resource/Publishing/Lazy-Loading.html",
+        ],
+      },
+      {
+        title: "WebDev101",
+        children: [
+          "/resource/Web/API.html",
+          "/resource/Web/CLI.html",
+          // "/resource/Web/Coding-Math.html",
+          // "/resource/Web/Domain-Name-System.html",
+          "/resource/Web/Git.html",
+          // "/resource/Web/Home-Sever.html",
+          // "/resource/Web/HTTP.html",
+          // "/resource/Web/Performance-Optimization.html",
+          // "/resource/Web/SEO.html",
+          "/resource/Web/Term.html",
+          "/resource/Web/Web-Architecture.html",
+        ],
+      },
+      {
+        title: "Tips",
+        children: [
+          "/resource/Tips/Debugging.html",
+          // "/resource/Tips/Definition-UI-Words.html",
+          // "/resource/Tips/Dev-Task-Management.html",
+          // "/resource/Tips/Developer-Behaviour.html",
+          // "/resource/Tips/Front-End-Road-Map.html",
+          // "/resource/Tips/RegEx.html",
+          "/resource/Tips/Testing.html",
+          "/resource/Tips/Tools.html",
+          "/resource/Tips/Video.html",
+        ],
+      },
+    ],
   },
   plugins: [
     [
@@ -28,4 +80,11 @@ module.exports = {
     ],
     "@vuepress/back-to-top",
   ],
+  configureWebpack: {
+    resolve: {
+      alias: {
+        "@alias": "docs/resource",
+      },
+    },
+  },
 };
