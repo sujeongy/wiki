@@ -78,7 +78,9 @@ module.exports = {
         updatePopup: true,
       },
     ],
-    "@vuepress/back-to-top",
+    ["@vuepress/back-to-top"],
+    ["@vuepress/last-updated"],
+    ["sitemap", { hostname: "https://sujeongy-wiki.herokuapp.com/" }],
   ],
   configureWebpack: {
     resolve: {
