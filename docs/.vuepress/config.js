@@ -46,6 +46,7 @@ module.exports = {
           // "/resource/Web/Coding-Math.html",
           // "/resource/Web/Domain-Name-System.html",
           "/resource/Web/Git.html",
+          "/resource/Web/Git-CMD.html",
           // "/resource/Web/Home-Sever.html",
           // "/resource/Web/HTTP.html",
           // "/resource/Web/Performance-Optimization.html",
