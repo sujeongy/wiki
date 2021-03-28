@@ -47,3 +47,4 @@
 ## 도움되는 자료
 - [Using Chrome DevTools to debug CSS Grid](https://blog.logrocket.com/using-chrome-devtools-to-debug-css-grid/)
 - [Managing CSS Z-Index In Large Projects](https://www.smashingmagazine.com/2021/02/css-z-index-large-projects/)
+- [CSS 팁: 팝업창을 멋지게 만드는 너무 간단한 방법](https://taegon.kim/archives/10088)
