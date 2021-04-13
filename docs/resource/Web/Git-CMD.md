@@ -28,7 +28,7 @@ $ git checkout [브랜치명]
 $ git fetch && git checkout [브랜치명]
 $ git checkout -t [브랜치명]
 // Branch(브랜치) 삭제하기
-$ git branch -d [브랜치명] // local
+$ git branch -D [브랜치명] // local
 $ git push origin --delete [브랜치명] // remote
 // 유효하지 않은 브랜치
 $ git remote prune origin
