@@ -69,6 +69,10 @@ module.exports = {
           "/resource/Tips/Video.html",
         ],
       },
+      {
+        title: "Book",
+        children: ["/resource/Book/DebugIt.html"],
+      },
     ],
   },
   plugins: [
