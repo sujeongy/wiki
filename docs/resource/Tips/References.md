@@ -24,3 +24,4 @@
 - [윈도우즈에서 소프트웨어 설치를 쉽게 할 수 있는 툴, Chocolatey!](https://steemit.com/kr/@orlein/chocolatey)
 - [bundlephobia- find the cost of adding a npm package to your bundle](https://bundlephobia.com/)
 - [json 포맷을 각 언어의 데이터 타입과 파서까지 자동으로 생성해주는 사이트](https://app.quicktype.io/)
+- [개발 협업을 위한 안드로이드 디자인 가이드 #01](https://leipiel.tistory.com/7)

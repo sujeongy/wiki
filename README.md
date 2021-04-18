@@ -11,6 +11,7 @@
 - [홈 서버 구축하기](docs/resource/Web/Home-Server.md)
 - [코딩 수학](docs/resource/Web/Coding-Math.md)
 - [Git](docs/resource/Web/Git.md)
+- [Git CMD](docs/resource/Web/Git-CMD.md)
 - [UX](docs/resource/Web/UX.md)
 - [용어 정리](docs/resource/Web/Term.md)
 

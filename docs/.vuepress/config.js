@@ -41,17 +41,18 @@ module.exports = {
       {
         title: "WebDev101",
         children: [
-          "/resource/Web/API.html",
+          // "/resource/Web/API.html",
           "/resource/Web/CLI.html",
           // "/resource/Web/Coding-Math.html",
           // "/resource/Web/Domain-Name-System.html",
           "/resource/Web/Git.html",
+          "/resource/Web/Git-CMD.html",
           // "/resource/Web/Home-Sever.html",
           // "/resource/Web/HTTP.html",
           // "/resource/Web/Performance-Optimization.html",
           // "/resource/Web/SEO.html",
-          "/resource/Web/Term.html",
-          "/resource/Web/Web-Architecture.html",
+          // "/resource/Web/Term.html",
+          // "/resource/Web/Web-Architecture.html",
         ],
       },
       {
@@ -68,6 +69,10 @@ module.exports = {
           "/resource/Tips/Video.html",
         ],
       },
+      {
+        title: "Book",
+        children: ["/resource/Book/DebugIt.html"],
+      },
     ],
   },
   plugins: [
@@ -78,7 +83,9 @@ module.exports = {
         updatePopup: true,
       },
     ],
-    "@vuepress/back-to-top",
+    ["@vuepress/back-to-top"],
+    ["@vuepress/last-updated"],
+    ["sitemap", { hostname: "https://sujeongy-wiki.herokuapp.com/" }],
   ],
   configureWebpack: {
     resolve: {
