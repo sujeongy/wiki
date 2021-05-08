@@ -1,4 +1,4 @@
-# Bacic
+# Basic
 
 ### Variable
 
