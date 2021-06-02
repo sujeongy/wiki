@@ -25,3 +25,4 @@
 - [bundlephobia- find the cost of adding a npm package to your bundle](https://bundlephobia.com/)
 - [json 포맷을 각 언어의 데이터 타입과 파서까지 자동으로 생성해주는 사이트](https://app.quicktype.io/)
 - [개발 협업을 위한 안드로이드 디자인 가이드 #01](https://leipiel.tistory.com/7)
+- [디자이너 & 비전공자 사수없이 혼자 코딩 공부하는 방법](https://www.youtube.com/watch?v=zFWt7P9jhSA0)
