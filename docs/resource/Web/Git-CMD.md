@@ -58,7 +58,7 @@ $ git push -f
 //git add 명령을 하기 이전(stage에 올리지 않은 경우)
 //repository 내 모든
 $ git checkout .
-$ git store . (^2.3)
+$ git restore . (^2.3)
 
 //특정 폴더||파일 아래의 모든
 $ git checkout {dir}||{file_name}
