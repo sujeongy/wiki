@@ -14,25 +14,35 @@ pull = fecth + merge
 // **[브랜치명]은 `-`를 사용해 띄워쓴다.
 // 브랜치 갱신
 $ git remote update
+
 // 브랜치 확인
 $ git branch // local
 $ git branch -r // remote
 $ git branch -a // local + remote
+
 // 브랜치 생성
 $ git branch [브랜치명]
 // 브랜치 생성 + 이동
 $ git checkout -b [브랜치명]
+//sub branch 커멘드 라인으로 체크아웃 하기
+$git checkout -b 브랜치이름 // 일반
+$git checkout -b 브랜치이름 특정오리진브랜
+
 // 브랜치 변경
 $ git checkout [브랜치명]
+
 // remote 브랜치 가져오기
 $ git fetch && git checkout [브랜치명]
 $ git checkout -t [브랜치명]
+
 // Branch(브랜치) 삭제하기
 $ git branch -D [브랜치명] // local
 $ git push origin --delete [브랜치명] // remote
-// 유효하지 않은 브랜치
-$ git remote prune origin
 
+// 유효하지 않은 브랜치 정리
+$ git remote prune origin
+// 로컬 저장소를 최신 정보로 갱신(리모트 저장소와 동기화)
+$ git fetch -p
 
 // 커밋 메시지 변경
 // #1 push 전
@@ -48,7 +58,7 @@ $ git push -f
 //git add 명령을 하기 이전(stage에 올리지 않은 경우)
 //repository 내 모든
 $ git checkout .
-
+$ git store . (^2.3)
 
 //특정 폴더||파일 아래의 모든
 $ git checkout {dir}||{file_name}
