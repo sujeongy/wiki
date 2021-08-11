@@ -26,7 +26,7 @@ $ git branch [브랜치명]
 $ git checkout -b [브랜치명]
 //sub branch 커멘드 라인으로 체크아웃 하기
 $git checkout -b 브랜치이름 // 일반
-$git checkout -b 브랜치이름 특정오리진브랜
+$git checkout -b 브랜치이름 특정origin브랜치
 
 // 브랜치 변경
 $ git checkout [브랜치명]
