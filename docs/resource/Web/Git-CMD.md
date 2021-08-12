@@ -49,7 +49,7 @@ $ git fetch -p
 $ git commit --amend -m "commit message"
 // #2 push 후
 // 1) $ git rebase HEAD~[커밋의 역순의 index] -i
-$ git rebase HEAD~1-i
+$ git rebase HEAD~1 -i
 // 2) [insert] pick -> reword
 // 3) `i`를 입력하여 편집모드로 수정 -> `ESC` -> `:wq!`
 $ git push -f
