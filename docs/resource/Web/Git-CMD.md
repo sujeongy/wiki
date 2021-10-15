@@ -27,6 +27,8 @@ $ git checkout -b [브랜치명]
 //sub branch 커멘드 라인으로 체크아웃 하기
 $git checkout -b 브랜치이름 // 일반
 $git checkout -b 브랜치이름 특정origin브랜치
+//원격 저장소의 branch 가져오기
+$ git checkout -t origin/feature/..
 
 // 브랜치 변경
 $ git checkout [브랜치명]
