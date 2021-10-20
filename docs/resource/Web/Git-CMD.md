@@ -61,10 +61,10 @@ $ git push -f
 //repository 내 모든
 $ git checkout .
 $ git restore . (^2.3)
+$ git reset --soft HEAD^ (commit -> stage)
 
 //특정 폴더||파일 아래의 모든
 $ git checkout {dir}||{file_name}
-
 
 //레파지토리 연결
 $ git remote add origin [연결할 git repo url]
@@ -82,7 +82,7 @@ $ git remote set-url origin [변경할 git repo url]
 git config --global user.name "유수정"
 git config --global user.email "yoosj0703@gmail.com"
 
-//삭제
+// config 삭제
 $ git config --unset  user.name
 $ git config --unset --global user.name
 
