@@ -7,7 +7,7 @@
 ### WebDev101
 
 - [브라우저의 이해](docs/resource/Web/How-Browser-Work.md)
-- [성능 최적화](docs/resource/Web/Performance-Optimization.md)
+- [성능  최적화](docs/resource/Web/Performance-Optimization.md)
 - [홈 서버 구축하기](docs/resource/Web/Home-Server.md)
 - [코딩 수학](docs/resource/Web/Coding-Math.md)
 - [Git](docs/resource/Web/Git.md)
