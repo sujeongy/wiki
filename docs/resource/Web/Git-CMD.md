@@ -99,6 +99,13 @@ $ git stash apply
 $ git stash apply [stash 이름]
 $ git stash drop
 $ git stash drop [stash 이름]
+
+// commit log
+$ git log 
+// commit 정보 확인
+$ git show
+$ git show [commit hash]
+$ git show HEAD
 ```
 
 ### git commit template
